@@ -1,0 +1,52 @@
+{
+  "productos": [
+    {
+      "id": "7274",
+      "nombre": "C3PO Star Wars - Figura",
+      "precio": "45.23",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_913822-MLU76000268245_042024-O.webp"
+    },
+    {
+      "id": "2840",
+      "nombre": "Guy Sensei - Figura",
+      "precio": "95.00",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_735768-MLU74224497269_012024-O.webp"
+    },
+    {
+      "id": "7b63",
+      "nombre": "IT Capitulo 2 - Figura",
+      "precio": "83.99",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_621920-MEC75387410457_032024-O.webp"
+    },
+    {
+      "id": "f548",
+      "nombre": "Son Goku Blue - Figura",
+      "precio": "95.25",
+      "imagen": "https://i.ebayimg.com/images/g/kmgAAOSw085hikAz/s-l500.jpg"
+    },
+    {
+      "id": "5482",
+      "nombre": "Deadpool - Figura",
+      "precio": "70.33",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_786448-MLM72870551965_112023-O.webp"
+    },
+    {
+      "id": "8bc7",
+      "nombre": "Sailor Moon - Figura",
+      "precio": "95.00",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_872668-MLM75227624818_032024-O.webp"
+    },
+    {
+      "id": "8bea",
+      "nombre": "Master Chief - Figura",
+      "precio": "114.78",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_679500-MLA49052202832_022022-O.webp"
+    },
+    {
+      "id": "42f5",
+      "nombre": "Jack Skellinton - Figura",
+      "precio": "554.98",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_657732-MLU75582035131_042024-O.webp"
+    }
+  ]
+}
